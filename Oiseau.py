@@ -1,4 +1,4 @@
-from ZOO import *
+from Animal import *
 
 # Je crée la classe Oiseau
 class Oiseau(Animal):

@@ -1,3 +1,4 @@
+from Animal import *
 class Zoo():
 
     def __init__(self, liste):

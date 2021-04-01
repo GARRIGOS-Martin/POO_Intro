@@ -1,4 +1,4 @@
-from ZOO import *
+from Animal import *
 
 # Instanciation de nos objets 
 chat = Animal(4,50)
