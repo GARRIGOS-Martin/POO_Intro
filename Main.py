@@ -1,4 +1,7 @@
 from Animal import *
+from Oiseau import *
+from Serpent import *
+from Zoo import *
 
 # Instanciation de nos objets 
 chat = Animal(4,50)
@@ -20,7 +23,7 @@ Ferme = [chat, corbeau, python]
 ferme = Zoo(Ferme)
 
 #Je teste la fonction que l'on a créée pour ajouter un animal dans notre objet de type Zoo
-ferme.ajoute_animal()
+#ferme.ajoute_animal()
 
 Poissons = [carpe, requin, pelican]
 poissons = Zoo(Poissons)
